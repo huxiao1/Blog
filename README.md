@@ -1,8 +1,10 @@
 # Blog
 
+## Programming Languages
+### [Quick Learn Assembly Language](./talk/programming_language/assembly.md)
 ## System
-### [Why does the code address always start from 0x400000, but the starting address of the compiled elf header starts from 0?](./talk/talk1.md)
-### [Quick Learn Assembly Language](./talk/assembly.md)
-### [uImage,zImage,vmlinuz和uboot分别是什么，有什么区别](./talk/kernel_file.md)
+### [Why does the code address always start from 0x400000, but the starting address of the compiled elf header starts from 0?](./talk/system/talk1.md)
+### [What is uImage,zImage,vmlinuz and uboot?](./talk/system/kernel_file.md)
+### [What is the meaning of the existence of the bootloader?](./talk/system/bootloader.md)
 ## Communication
-### [RFID](./talk/RFID.md)
+### [RFID](./talk/communication/RFID.md)
